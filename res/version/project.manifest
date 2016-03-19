@@ -1,0 +1,13 @@
+{
+	"packageUrl" : "http://10.158.73.54/update/files/",
+	"remoteVersionUrl" : "http://10.158.73.54/update/version/version.manifest",
+	"remoteManifestUrl" : "http://10.158.73.54/update/version/project.manifest",
+	"version" : "1.0.1",
+	"engineVersion" : "Quick-Cocos2dx-Community 3.6.1 Release",
+
+	"assets" : {
+		"src/app/scenes/MainScene.lua" : {
+			"md5" : "38A6B59AF215508681A1E061D9DA21E9"
+		}
+	}
+}
